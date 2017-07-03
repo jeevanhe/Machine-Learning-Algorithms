@@ -1,14 +1,3 @@
-Assignment 2
-CS6375 - Machine Learning
-Names: Jeevan Hunsur Eswara & SriHarshareddy Munjuluru
-===========================================================================================================================
-Contents of the partii folder:
-1) data - datasets
-2) Results - output obtained by running ID3 algorithm on two datasets
-3) Screenshots - Execution and result snippets
-4) Report - Brief decription and learings
-5) DecisionTree_ID3.py - python file for program execution
-6) Readme file
 
 Execution Steps: Language used for this program is Python
 [This code works only in python3]

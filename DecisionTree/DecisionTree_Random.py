@@ -1,3 +1,12 @@
+# Instead of using the ID3 algorithm to choose which attribute to select for
+# splitting the data at each node, write a method that randomly picks attributes
+# for each node. Every other requirement remains the same. Also note that you
+# cannot use the same attribute twice in a path. There is no need to prune the
+# tree. Construct a new tree using random selection of attributes and compare
+# the performance on the test dataset (in terms of accuracy) of the tree
+# constructed using this approach to the one constructed earlier using ID3. You
+# need to compare the trees without pruning.
+
 import numpy as np
 import sys
 import random
